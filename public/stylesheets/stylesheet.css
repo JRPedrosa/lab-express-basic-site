@@ -1,0 +1,13 @@
+.mayerBio {
+    background-color: chartreuse;
+}
+
+.disco {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.album {
+    font-size: 30px;
+}
