@@ -1,0 +1,33 @@
+.mayerBio {
+    background-color: red;
+}
+
+.disco {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.album {
+    font-size: 40px;
+    color: rgb(0, 156, 21);
+    text-decoration: none;
+}
+
+.homeBody {
+    background-color: pink;
+    color: black;
+    font-style: italic;
+}
+
+.aboutBody {
+    background-color: cyan;
+}
+
+.worksBody {
+    background-color: darkorange;
+}
+
+#johnMayer {
+    text-decoration: underline;
+}
